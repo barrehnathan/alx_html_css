@@ -1,1 +1,1 @@
-These are the basics of html
+These are the basic of html
